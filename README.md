@@ -1,5 +1,7 @@
 # Corpus Grapheme Chunk Averages
 
+![](viz.png)
+
 We use the grapheme-splitter library to create an array of orthographic graphemes. 
 
 Then we create an array of arrays — chunks of 1000 graphemes each. 
